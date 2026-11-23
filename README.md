@@ -1,7 +1,13 @@
 # Research_Method_Assigment-
-### Project Scope and Research Question
-This research notebook is part of the BME 790 project. It focuses on studying how sleep can help improve memory in patients with amnestic Mild Cognitive Impairment (aMCI). The main research interest is using EEG to guide personalized Targeted Memory Reactivation (TMR) during sleep. This means using sounds or other cues during sleep to help reactivate previously learned information.
-Deep sleep, especially slow-wave sleep, is important for memory because the brain processes and stores information during this stage. However, people with aMCI may have changes in their sleep patterns that affect how well they remember information. This makes it important to investigate whether personalized stimulation during sleep could help improve memory.
-### Methodology and Literature Screening Update
-To learn more about this topic, I searched three databases: PubMed, Scopus, and IEEE Xplore. The searches resulted in 188 records. I used Zotero to organize the references and remove duplicates, which resulted in merging 43 duplicate records. I also checked the references of relevant papers to find additional studies. After this process, I had a total of 154 references in my library.
-The current work focuses on reviewing these studies and comparing their methods and results. I am particularly interested in the type and timing of stimulation used during sleep, the memory tests performed, and whether these methods could be suitable for patients with aMCI. The aim is to understand what previous studies have found and identify areas that still need further research.
+EEG-Guided Personalized TMR in aMCI
+Project Overview
+This repository is dedicated to organizing research related to EEG-guided personalized Targeted Memory Reactivation (TMR) during sleep in individuals with amnestic Mild Cognitive Impairment (aMCI).
+Research Focus
+EEG and Event-Related Potentials (ERP).
+Sleep slow oscillations and memory consolidation.
+Auditory stimulation and Targeted Memory Reactivation.
+Mild Cognitive Impairment and Alzheimer's disease.
+Project Goal
+The goal is to review existing literature and explore the potential of personalized EEG-guided auditory stimulation to improve memory consolidation during sleep.
+Repository Contents
+This repository will contain research notes, literature organization, and project-related documentation.
